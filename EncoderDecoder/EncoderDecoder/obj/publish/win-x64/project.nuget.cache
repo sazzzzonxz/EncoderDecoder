@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o6OW8lX1YHGeV/Vbybu43EOCStuQtQcTiqRMcONLyjXYSTlTNoqmadMVU6zgypAaT9NlZlVZQFQW0p29qBMiCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Worker\\source\\repos\\EncoderDecoder\\EncoderDecoder\\EncoderDecoder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Worker\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.15\\microsoft.netcore.app.runtime.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\Worker\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\Worker\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.15\\microsoft.aspnetcore.app.runtime.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
